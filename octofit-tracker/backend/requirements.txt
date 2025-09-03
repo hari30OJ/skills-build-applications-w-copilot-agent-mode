@@ -1,0 +1,7 @@
+# OctoFit Tracker backend requirements
+# Adapted from Mona High School Fitness Tracker
+
+django>=4.0
+ djangorestframework
+ pymongo
+ gunicorn
